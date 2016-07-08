@@ -1,6 +1,6 @@
-E:\Users\luesc_000\Documents\Visual Studio 2013\Projects\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.exe.config
-E:\Users\luesc_000\Documents\Visual Studio 2013\Projects\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.exe
-E:\Users\luesc_000\Documents\Visual Studio 2013\Projects\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.pdb
-E:\Users\luesc_000\Documents\Visual Studio 2013\Projects\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.csprojResolveAssemblyReference.cache
-E:\Users\luesc_000\Documents\Visual Studio 2013\Projects\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.exe
-E:\Users\luesc_000\Documents\Visual Studio 2013\Projects\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.pdb
+E:\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.exe.config
+E:\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.exe
+E:\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.pdb
+E:\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.exe
+E:\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.pdb
+E:\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.csprojResolveAssemblyReference.cache
