@@ -10,7 +10,8 @@ namespace NavisionObjectSplitter
 {
     class Program
     {
-        private static readonly string MATCHSTRING = @"(OBJECT \w* \d* [A-z 0-9]*\r\n{)";
+        private static readonly string MATCHSTRING = @"(OBJECT \w* \d* .*
+{)"; //[A-z 0-9]
         static void Main(string[] args)
         {
             Console.Write("Filename: ");
