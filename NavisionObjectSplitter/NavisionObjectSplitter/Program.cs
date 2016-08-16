@@ -16,9 +16,9 @@ namespace NavisionObjectSplitter
         {
             Console.Write("Filename: ");
             var fileName = Console.ReadLine();
+            var encoding = Encoding.Default;
 
-
-            using (var sr = new StreamReader(new FileStream(fileName, FileMode.Open)))
+            using (var sr = new StreamReader(new FileStream(fileName, FileMode.Open), encoding))
             {
                 var fullFileContent = sr.ReadToEnd();
                 var values = Regex.Split(fullFileContent, MATCHSTRING)
@@ -28,7 +28,7 @@ namespace NavisionObjectSplitter
                 for (int i = 0; i < values.Length; i += 2)
                 {
                     var name = values[i].Split(Environment.NewLine.ToCharArray())[0].Trim(new char[] { ' ', '"' });
-                    File.WriteAllText(name.Split(' ').Take(3).Aggregate((x, y) => x + " " + y) + ".txt", values[i] + values[i + 1]);
+                    File.WriteAllText(name.Split(' ').Take(3).Aggregate((x, y) => x + " " + y) + ".txt", values[i] + values[i + 1], encoding);
                     Console.WriteLine(name);
                 };
             }

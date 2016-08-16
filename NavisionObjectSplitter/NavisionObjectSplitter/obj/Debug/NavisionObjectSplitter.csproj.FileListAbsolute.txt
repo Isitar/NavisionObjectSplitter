@@ -10,3 +10,9 @@ C:\Users\palu\Documents\NavisionObjectSplitter\NavisionObjectSplitter\NavisionOb
 C:\Users\palu\Documents\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.exe
 C:\Users\palu\Documents\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.pdb
 C:\Users\palu\Documents\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.csprojResolveAssemblyReference.cache
+C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.exe.config
+C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.exe
+C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.pdb
+C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.exe
+C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.pdb
+C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.csprojResolveAssemblyReference.cache
