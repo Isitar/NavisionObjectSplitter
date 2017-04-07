@@ -12,8 +12,16 @@ namespace NavisionObjectSplitter
 {)"; //[A-z 0-9]
         public static void Main(string[] args)
         {
-            Console.Write("Filename: ");
-            var fileName = Console.ReadLine();
+            string fileName;
+            if (args.Length == 1)
+            {
+                fileName = args[0];
+            }
+            else
+            {
+                Console.Write("Filename: ");
+                fileName = Console.ReadLine();
+            }
             var encoding = Encoding.Default;
 
             using (var sr = new StreamReader(new FileStream(fileName, FileMode.Open), encoding))
