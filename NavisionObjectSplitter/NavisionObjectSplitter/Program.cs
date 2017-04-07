@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace NavisionObjectSplitter
 {
@@ -12,7 +10,7 @@ namespace NavisionObjectSplitter
     {
         private static readonly string MATCHSTRING = @"(OBJECT \w* \d* .*
 {)"; //[A-z 0-9]
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Filename: ");
             var fileName = Console.ReadLine();
@@ -27,10 +25,10 @@ namespace NavisionObjectSplitter
 
                 for (int i = 0; i < values.Length; i += 2)
                 {
-                    var name = values[i].Split(Environment.NewLine.ToCharArray())[0].Trim(new char[] { ' ', '"' });
+                    var name = values[i].Split(Environment.NewLine.ToCharArray())[0].Trim(' ', '"');
                     File.WriteAllText(name.Split(' ').Take(3).Aggregate((x, y) => x + " " + y) + ".txt", values[i] + values[i + 1], encoding);
                     Console.WriteLine(name);
-                };
+                }
             }
             Console.WriteLine("done");
             Console.ReadLine();

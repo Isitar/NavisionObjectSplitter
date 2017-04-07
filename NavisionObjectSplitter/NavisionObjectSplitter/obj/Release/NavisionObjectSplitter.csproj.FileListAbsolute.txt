@@ -1,0 +1,6 @@
+C:\git\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Release\NavisionObjectSplitter.exe.config
+C:\git\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Release\NavisionObjectSplitter.exe
+C:\git\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Release\NavisionObjectSplitter.pdb
+C:\git\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Release\NavisionObjectSplitter.csprojResolveAssemblyReference.cache
+C:\git\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Release\NavisionObjectSplitter.exe
+C:\git\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Release\NavisionObjectSplitter.pdb

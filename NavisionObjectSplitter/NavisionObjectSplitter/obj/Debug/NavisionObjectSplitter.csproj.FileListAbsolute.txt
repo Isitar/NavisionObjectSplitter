@@ -16,3 +16,6 @@ C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\Nav
 C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.exe
 C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.pdb
 C:\Users\palu\Documents\GitHub\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.csprojResolveAssemblyReference.cache
+C:\git\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\bin\Debug\NavisionObjectSplitter.exe.config
+C:\git\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.exe
+C:\git\NavisionObjectSplitter\NavisionObjectSplitter\NavisionObjectSplitter\obj\Debug\NavisionObjectSplitter.pdb
